@@ -2,7 +2,7 @@
 
 # Author: Ýmir Örn Ingólfsson
 # Title : Automation of selecting page numbers in abook
-# Note  : use import random. 
+# Note  :  
 
 import random ,argparse, configparser, os
 
